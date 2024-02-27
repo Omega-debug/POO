@@ -1,0 +1,3 @@
+/Users/omega1/CLionProjects/Lab 7-8/cmake-build-debug/CMakeFiles/Lab_7_8.dir
+/Users/omega1/CLionProjects/Lab 7-8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omega1/CLionProjects/Lab 7-8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
